@@ -1,0 +1,5 @@
+body{
+    background: rgb(215,192,208);
+background: radial-gradient(circle, rgb(41, 13, 183) 0%, rgb(156, 148, 219) 31%, rgb(116, 108, 206) 60%, rrgb(51, 71, 135)100%);
+font-family: 'Josefin sans';
+}
